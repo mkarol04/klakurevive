@@ -1,3 +1,6 @@
+author 'D4RK#1883/Klaku'
+description 'Revive on Pillbox'
+version '1.0.0'
 
 client_scripts {
 	'config.lua',
