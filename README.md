@@ -4,4 +4,4 @@
 - mythic_notify
 
 ## Developer:
-- D4RK#2137(https://www.youtube.com/c/klakux)
+- D4RK#1883(https://www.youtube.com/c/klakux)
